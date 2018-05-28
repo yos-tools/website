@@ -3,7 +3,8 @@ module.exports = {
     description: 'Your open source tools',
     themeConfig: {
         nav: [
-          { text: 'Home', link: '/' },
+          { text: 'Start', link: '/' },
+          { text: 'Server', link: '/server/' },
           { text: 'Imprint', link: '/imprint' },
         ]
       }
